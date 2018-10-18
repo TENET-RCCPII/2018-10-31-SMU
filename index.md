@@ -1,19 +1,19 @@
 ---
 layout: workshop      # DON'T CHANGE THIS.
 carpentry: "dc"    # what kind of Carpentry (must be either "lc" or "dc" or "swc")
-venue: "Rhodes University"        # brief name of host site without address (e.g., "Euphoric State University")
-address: "Continuing Education Centre, Grahamstown"      # full street address of workshop (e.g., "Room A, 123 Forth Street, Blimingen, Euphoria")
+venue: "Sefako Makgatho University"        # brief name of host site without address (e.g., "Euphoric State University")
+address: "Skills Centre, Sefako Makgatho University"      # full street address of workshop (e.g., "Room A, 123 Forth Street, Blimingen, Euphoria")
 country: "za"      # lowercase two-letter ISO country code such as "fr" (see https://en.wikipedia.org/wiki/ISO_3166-1)
 language: "en"     # lowercase two-letter ISO language code such as "fr" (see https://en.wikipedia.org/wiki/ISO_639-1)
-latlng: "-33.3170479,26.5108861"       # decimal latitude and longitude of workshop venue (e.g., "41.7901128,-87.6007318" - use https://www.latlong.net/)
+latlng: "-25.6211893,28.0147046"       # decimal latitude and longitude of workshop venue (e.g., "41.7901128,-87.6007318" - use https://www.latlong.net/)
 humandate: "7 - 9 November, 2018"    
 humantime: "9:00 - 16:30"   
 startdate: 2018-11-07     
 enddate: 2018-11-09        
-instructor: ["Danielle Quin", "Zak van Heerden", "TBC"] 
+instructor: ["TBC"] 
 helper: ["TBC"]    
 email: ["anelda.vdwalt@gmail.com"]    
-collaborative_notes: http://pad.software-carpentry.org/2018-11-07-Rhodes-Uni   
+collaborative_notes: http://pad.software-carpentry.org/2018-11-07-SMU
 eventbrite:        
 ---
 
@@ -178,7 +178,7 @@ eventbrite:
   for more information.
 </p>
 
-<p><strong>Registration:</strong> Please complete the online registration form at <a href="https://goo.gl/forms/iLe1C3QkfTeGrQHu1">https://goo.gl/forms/iLe1C3QkfTeGrQHu1</a>. Limited space is available. The workshop is free to attend but a R500 no-show fee will be payable by registered participants who does not show up to the workshop without giving the workshop organisers at least 1 week notice.
+<p><strong>Registration:</strong> Please complete the online registration form at <a href="https://goo.gl/forms/EsPHuCsZlUWqLTp43">https://goo.gl/forms/EsPHuCsZlUWqLTp43</a>. Limited space is available. The workshop is free to attend but a R500 no-show fee will be payable by registered participants who does not show up to the workshop without giving the workshop organisers at least 1 week notice.
   </p>
 
 <hr/>
