@@ -6,14 +6,14 @@ address: "Skills Centre, Sefako Makgatho University"      # full street address 
 country: "za"      # lowercase two-letter ISO country code such as "fr" (see https://en.wikipedia.org/wiki/ISO_3166-1)
 language: "en"     # lowercase two-letter ISO language code such as "fr" (see https://en.wikipedia.org/wiki/ISO_639-1)
 latlng: "-25.6211893,28.0147046"       # decimal latitude and longitude of workshop venue (e.g., "41.7901128,-87.6007318" - use https://www.latlong.net/)
-humandate: "7 - 9 November, 2018"    
+humandate: "31 Oct - 2 Nov, 2018"    
 humantime: "9:00 - 16:30"   
-startdate: 2018-11-07     
-enddate: 2018-11-09        
-instructor: ["TBC"] 
-helper: ["TBC"]    
+startdate: 2018-10-31     
+enddate: 2018-11-02        
+instructor: ["Anelda van der Walt", "Matlogomang Khantsi"] 
+helper: ["Hendrik Pieterse"]    
 email: ["anelda.vdwalt@gmail.com"]    
-collaborative_notes: http://pad.software-carpentry.org/2018-11-07-SMU
+collaborative_notes: http://pad.software-carpentry.org/2018-10-31-SMU
 eventbrite:        
 ---
 
