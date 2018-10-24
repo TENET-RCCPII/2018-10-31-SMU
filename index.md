@@ -16,7 +16,14 @@ email: ["anelda.vdwalt@gmail.com"]
 collaborative_notes: http://pad.software-carpentry.org/2018-10-31-SMU
 eventbrite:        
 ---
-
+<div>
+<table>
+	<tr>
+	<td align="center" style="background-color:white"><a href="http://www.smu.ac.za/"><img style="display:block;" width="100%" height="100%" src="./fig/smu.png" alt="Sefako Makgatho Health Sciences University"></a></td>
+	<td align="center" style="background-color:white"><a href="https://tenet-rccpii.github.io/rccpii-2018/"><img style="display:block;" width="100%" height="100%" src="./fig/rccpii.png" alt="Rural Campuses Connection Project II"></a></td>
+	</tr>
+</table>
+</div>
 {% comment %} See instructions in the comments below for how to edit specific sections of this workshop template. {% endcomment %}
 
 {% comment %}
