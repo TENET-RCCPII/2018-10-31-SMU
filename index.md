@@ -7,7 +7,7 @@ country: "za"      # lowercase two-letter ISO country code such as "fr" (see htt
 language: "en"     # lowercase two-letter ISO language code such as "fr" (see https://en.wikipedia.org/wiki/ISO_639-1)
 latlng: "-25.6211893,28.0147046"       # decimal latitude and longitude of workshop venue (e.g., "41.7901128,-87.6007318" - use https://www.latlong.net/)
 humandate: "31 Oct - 2 Nov, 2018"    
-humantime: "Wednesday 11:30 - 16:30, Thursday 9:00 - 16:30, Friday 9:00 - 13:00"   
+humantime: "Wednesday 11:00 - 16:30, Thursday 9:00 - 16:30, Friday 9:00 - 13:00"   
 startdate: 2018-10-31     
 enddate: 2018-11-02        
 instructor: ["Anelda van der Walt", "Motlagomang Khantsi"] 
