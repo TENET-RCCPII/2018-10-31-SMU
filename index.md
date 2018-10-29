@@ -10,8 +10,8 @@ humandate: "31 Oct - 2 Nov, 2018"
 humantime: "Wednesday 11:00 - 16:30, Thursday 9:00 - 16:30, Friday 9:00 - 13:00"   
 startdate: 2018-10-31     
 enddate: 2018-11-02        
-instructor: ["Anelda van der Walt", "Motlagomang Khantsi"] 
-helper: ["Hendrik Pieterse"]    
+instructor: ["Anelda van der Walt", "Mamsi Khantsi"] 
+helper: ["Hendrik Pieterse", "Abisola Sholeye", "Kazeem Alayande", "Rorisang Mmushi"]    
 email: ["anelda.vdwalt@gmail.com"]    
 collaborative_notes: http://pad.software-carpentry.org/2018-10-31-SMU
 eventbrite:        
